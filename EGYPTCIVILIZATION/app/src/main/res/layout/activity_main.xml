@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/sphinx"
+>
+
+
+    <TextView
+        android:layout_width="287dp"
+        android:layout_height="66dp"
+        android:background="#4CAF50"
+        android:text="txting text"
+        android:textSize="24sp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/egypt"
+        android:textAlignment="center"
+        android:textAllCaps="true">
+
+    </TextView>
+
+    <ImageView
+        android:src="@drawable/sphinx"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="center"
+
+        />
+
+    <TextView
+        android:id="@+id/egypt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="EGYPT"
+        android:textSize="45dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beginning of Civilization"
+        android:layout_margin="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:fontFamily="sans-serif-condensed"
+        android:textStyle="bold"
+        android:textSize="24dp"
+/>
+
+
+
+    </Button>
+
+</RelativeLayout>

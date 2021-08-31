@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق طلب القهوة</string>
+    <string name="order">الطلب</string>
+    <string name="enter_your_name">ادخل اسمك</string>
+    <string name="whipped_cream">الكريمة المخفوقة</string>
+    <string name="chocolate">طبقة شيكولاتة</string>
+    <string name="order_summary">تفاصيل الطلب</string>
+    <string name="quantity">الكمية</string>
+    <string name="topping">طبقة التحلية</string>
+    <string name="thank_you">شكرا لك</string>
+    <string name="name">الاسم</string>
+    <string name="has_Whipped_Cream">طبقة كريمة</string>
+    <string name="has_Chocolate">طبقة شيكولاتة</string>
+    <string name="price">اجمالى السعر</string>
+    <string name="cups">"كوب "</string>
+</resources>
